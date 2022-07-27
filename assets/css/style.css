@@ -17,7 +17,7 @@
 }
 img {
   color: black;
-  width: 50%;
+  width: 90%;
 
 }
 
@@ -26,9 +26,7 @@ body {
 }
 
 h1 {
-  border: 5px solid red;
- text-align: center;
-
+  text-align: center;
 }
 
 
@@ -38,10 +36,11 @@ h1 {
 }
 
 .flex-container > div {
-    color: black;
+  color: black;
   text-align: center;
-  line-height: 75px;
-  font-size: 30px;
+  
+  font-size: 20px;
+  padding-right: 25px;
 }
 
 .flex-container > #About p {
