@@ -13,6 +13,8 @@ The assignment was to create a 1 page potfolio from scratch.
 - 3 The portfolio should showcase flexbox, media queries, and css variables.
 
 
+![Chris Holtz Portfolio](./assets/images/Chris%20Holtz%20Portfolia.gif)
+
  
 
 
