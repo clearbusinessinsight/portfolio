@@ -15,6 +15,6 @@ The assignment was to create a 1 page potfolio from scratch.
 
 ![Chris Holtz Portfolio](./assets/images/Chris%20Holtz%20Portfolia.gif)
 
+ [Chris Holtz Portfolio link](https://clearbusinessinsight.github.io/portfolio/)
  
-
 
