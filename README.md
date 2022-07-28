@@ -12,6 +12,7 @@ The assignment was to create a 1 page potfolio from scratch.
 - 2 This will showcase my future work as well as the thought process behind creating it.
 - 3 The portfolio should showcase flexbox, media queries, and css variables.
 
+
  
 
 
